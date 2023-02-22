@@ -1,0 +1,2 @@
+streamlit==1.18.1
+st-click-detector==0.1.3
